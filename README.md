@@ -53,14 +53,6 @@ This project was created using the following technologies.
 
 - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
 
-## Screenshots
-
-![Screenshot 2024-07-12 211933](https://github.com/user-attachments/assets/d7263e0e-d3bf-422f-875b-444947c4b796)
-
-![Screenshot 2024-07-12 211921](https://github.com/user-attachments/assets/00ef597f-7f7f-4256-9fc9-3a575cdfbce2)
-
----
-
 ## Author
 
 - Portfolio: [Talha Hussain](https://my-portfolio-oohleq9z1-talhabruhs-projects.vercel.app/)
